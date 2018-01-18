@@ -1,0 +1,2 @@
+http://www.javainuse.com/spring/springbootsoapwebservice
+https://www.codenotfound.com/spring-ws-soap-web-service-consumer-provider-wsdl-example.html
